@@ -4,6 +4,7 @@ __pycache__/
 
 # Virtual environment
 venv/
+t5-env
 .env
 .t5-env/
 
