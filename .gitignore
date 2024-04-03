@@ -1,0 +1,21 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+.t5-env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*~
